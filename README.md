@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Project Link: [https://github.com/yourusername/holidaycountdowns](https://github.com/yourusername/holidaycountdowns)
 
-For further inquiries, you can reach out at [email@example.com](mailto:email@example.com).
+For further inquiries, you can reach out at [support@holidaycountdowns.xyz](mailto:support@holidaycountdowns.xyz).
 
 ## Acknowledgments
 
